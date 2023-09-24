@@ -2,8 +2,6 @@
 
 The Kanban Board is a simple project management tool that helps you visualize your work and workflow. This project provides a web-based Kanban board application for managing tasks or tickets.
 
-![Kanban Board](kanban-board-screenshot.png)
-
 ## Features
 
 Grouping Options: The Kanban board offers three distinct ways to group the data:
