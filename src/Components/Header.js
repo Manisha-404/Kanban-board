@@ -5,8 +5,8 @@ import '../Css/Header.css';
 import Display from "./Display";
 
 function Header(){
-    const [Grouping, setGrouping] = useState('');
-    const [Ordering, setOrdering] = useState('');
+    const [Grouping, setGrouping] = useState('Status');
+    const [Ordering, setOrdering] = useState('Priority');
     const [isOptionVisible, setIsOptionVisible] = useState(false);
 
     const handleGrouping = (event) => {
